@@ -1,0 +1,2 @@
+CRIAR UM CRIADOR DE OBJETOS USANDO MALLOC - BASICAMENTE UM OPERADOR new
+E exibir algumas propriedades e chamar alguns métodos desse objeto

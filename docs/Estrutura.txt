@@ -1,0 +1,75 @@
+* História de Linguagem
+
+https://www.log2base2.com/C/basic/introduction-to-c-language.html
+
+	* Onde surgiu?
+	* Onde é usada?
+	* Padronizações - KR&C, C ANSI, C99, C11
+	* Caracteristicas
+	* O que é feito em C?
+		* Git - https://github.com/git/git
+		* Linux - https://github.com/torvalds/linux
+		* PHP - https://github.com/php/php-src
+		* Openssl - https://github.com/openssl/openssl
+		* Nginx - https://github.com/nginx/nginx
+		* Apache - https://github.com/apache/httpd
+		* Postgree - https://github.com/postgres/postgres/
+		* GCC
+	* Por que C/C++ é a base do mundo?
+	https://alikhuram.wordpress.com/2016/08/09/after-all-these-years-the-world-is-still-powered-by-c-programming/
+
+* O que C não tem
+
+	* GC
+	* Segurança de Tipo
+	* Gerência de memória
+		* Falhas de corrupção de memória
+	
+
+* Estrutura da Linguagem
+
+	* Arquivos .c e .h
+	* Processo de Compilação - http://linguagemc.com.br/desenvolvendo-um-programa-em-linguagem-c/
+	* Pre-processamento
+		https://www.programiz.com/c-programming/c-preprocessor-macros
+	* Palavras Reservadas
+		https://www.programiz.com/c-programming/list-all-keywords-c-language
+	* Operadores da Lingaguagem
+		https://www.tutorialspoint.com/cprogramming/c_operators.htm
+
+* Tipos de Dados
+	
+	* http://www.trytoprogram.com/c-programming/c-programming-datatypes/
+	* Modificadores
+		* long, short, signed e unsigned
+	* Tipos Básico
+		* int, char, float, double
+	* Tipos Derivados
+		* arrays, pointers 
+	* Tipos Definidos
+		* struct, union, enum 
+
+	* Classes de Armazenamento
+	
+	* Outros tipos melhorados uint8, uint16, uint32, w_chart, float64
+
+* Controle de Fluxo
+
+	* if, else, switch
+	* while, do while, break, continue
+	* goto 
+
+* Funções
+	
+	* Argumentos argc, argv
+	* Passagem de parametro por valor e por referencia
+	* Pointeiros de Funções
+
+* Alocação dinamica de memória
+
+* Bibliotecas nativas
+
+	* Falar de strcpy e strncpy
+	* stdio
+	* stlib
+	* string

@@ -1,0 +1,1 @@
+#define MAX_PATH_LENGHT 254

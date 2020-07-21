@@ -1,0 +1,2 @@
+Fazer um duplicador de strings array ou strutcs usando malloc
+Parecido com a função https://www.geeksforgeeks.org/strdup-strdndup-functions-c/
